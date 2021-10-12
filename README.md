@@ -63,13 +63,13 @@ Personalidade: Ganancioso,  Autoritário e Perverso.
 ## :video_game: Layout game
 
 <div float="left">
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Inicio.png" width="48%" height="450em" style="float:left"/> 
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Inicio.png" width="48%" height="400em" style="float:left"/> 
   
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/cut5.png" width="48%" height="450em" style="float:left"/>  
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/cut5.png" width="48%" height="400em" style="float:left"/>  
 
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Mapa.png" width="48%" height="450em" style="float:left"/>
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Mapa.png" width="48%" height="400em" style="float:left"/>
 
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/fase4.png" width="48%" height="450em" style="float:left"/> 
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/fase4.png" width="48%" height="400em" style="float:left"/> 
 </div>
 
 # 🛠 Tecnologias Utilizadas
