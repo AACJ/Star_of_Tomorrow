@@ -8,9 +8,11 @@ O jogo se passa na Via-Láctea, mas precisamemte no sistema solar, possui 9 fase
 
 ## :space_invader: Personagens
 
-<p float="left">
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Jace%20sorrindo%201362x1362.png" align="center" width="400" height="400" style="float:left"/> 
-  
+<div align='center'>
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Jace%20sorrindo%201362x1362.png" align="center" width="400" height="400"/> 
+</div>  
+
+<p float="left">  
 Nome: Jace Herondale.
   
 Idade: 17 anos.
@@ -20,9 +22,15 @@ História do personagem: Jace vivia no planeta Hydris que pertencia a outra gal�
 Personalidade do personagem: Corajoso e Introvertido.
 
 Habilidades: Com seu conhecimento sobre as naves e os cosmos, Jace parte em busca do vilão. 
+</p>
 
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/ross%202.png" width="140" height="160" style="float:left"/>  
+<br/>
 
+<div align='center'>
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/ross%202.png" width="140" height="160"/>  
+</div> 
+
+<p> 
 Nome: Ross Rigel.
 
 Idade:  6 anos.
@@ -32,9 +40,15 @@ História do personagem: Ross é uma espécie alienígena Foxtriliana, do planet
 Personalidade do personagem: Extrovertida e Dedicado.
 
 Habilidades: Por ser engenheiro de naves Ross consegue manusear a nave.
-  
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Sr.Galactus%20%C3%BAltima%20fase.png" width="400" height="400" style="float:left"/> 
+</p>
 
+<br/>
+
+<div align='center'>
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Sr.Galactus%20%C3%BAltima%20fase.png" width="400" height="400"/>  
+</div> 
+
+<p> 
 Nome: Hall Prowse.
 
 Apelido: Sr.Galactus.
@@ -48,15 +62,15 @@ Personalidade: Ganancioso,  Autoritário e Perverso.
 
 ## :video_game: Layout game
 
-<p float="left">
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Inicio.png" width="500" height="450" style="float:left"/> 
+<div float="left">
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Inicio.png" width="48%" height="450em" style="float:left"/> 
   
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/cut5.png" width="500" height="450" style="float:left"/>  
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/cut5.png" width="48%" height="450em" style="float:left"/>  
 
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Mapa.png" width="500" height="450" style="float:left"/>
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/Mapa.png" width="48%" height="450em" style="float:left"/>
 
-<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/fase4.png" width="500" height="450" style="float:left"/> 
-</p>
+<img src="https://github.com/CunegundesA/Star_of_Tomorrow/blob/master/assets/fase4.png" width="48%" height="450em" style="float:left"/> 
+</div>
 
 # 🛠 Tecnologias Utilizadas
 
